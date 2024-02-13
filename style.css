@@ -5,6 +5,7 @@ section {
     margin: auto;
     margin-bottom: 20px;
     padding: 30px;
+    display: none;
     justify-content: space-between;
 
     border-style: solid;
