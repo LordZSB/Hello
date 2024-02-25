@@ -7,11 +7,7 @@ body	{
 }
 
 .enemy	{
-	background-color: dimgray;
 	background-image: url("Enemy.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
 }
 
 section {
