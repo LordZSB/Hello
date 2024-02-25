@@ -49,3 +49,15 @@ nav {
     background-image: radial-gradient(dimgrey, gray); */
     background-color: #777777aa;
 }
+nav a {
+    font-size: 35px;
+    color: aliceblue;
+    background-color: dimgray;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 50px;
+    text-decoration: none;
+
+    transition-duration: 300ms;
+}
