@@ -6,6 +6,14 @@ body	{
 	background-attachment: fixed;
 }
 
+body	{
+	background-color: dimgray;
+	background-image: url("Enemy.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
 section {
     /* background-color: white; */
     
