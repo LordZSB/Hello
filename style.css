@@ -51,7 +51,7 @@ nav {
 }
 nav a {
     font-size: 35px;
-    color: aliceblue;
+    color: (#ff0000, #FFFFFF, #0000FF);
     background-color: dimgray;
     padding: 15px;
     margin: 10px;
